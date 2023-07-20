@@ -4,3 +4,4 @@ This can be used as an example custom config for NvChad, this branch is a minima
 # my-neovim-config
 # my-neovim-config
 # my-neovim-config
+# my-neovim-config
