@@ -35,6 +35,8 @@ local sources = {
 	-- python
 	b.diagnostics.pylint,
 	b.formatting.black,
+	-- yaml
+	b.diagnostics.spectral,
 }
 
 null_ls.setup({
