@@ -44,8 +44,11 @@ local plugins = {
 				--production
 				"dockerfile-language-server",
 				"yaml-language-server",
+				-- python
 				"pylint",
 				"black",
+				-- yaml
+				"spectral",
 			},
 		},
 	},
